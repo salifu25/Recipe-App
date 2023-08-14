@@ -17,6 +17,7 @@ function App() {
         <Route path='/Categories' element={<Categories />} />
         <Route path='/RecipeCard' element={<RecipeCard />} />
         <Route path='/Favorites' element={<Favorites />} />
+        <Route path='/info' element={<Info />} />
       </Routes>
     </Router>
   );

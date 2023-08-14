@@ -434,3 +434,125 @@ color: #D657B2;
   
       color: #FFFFFF;
 }
+.Sidebar2 {
+  position: absolute;
+  width: 1000px;
+  height: 250px;
+  left: 380px;
+  top: 76px;
+  background: #D657B2;
+  border-radius: 30px;
+
+}
+
+.hero {
+  /* Rectangle 9 */
+
+  position: absolute;
+  width: 505px;
+  height: 399px;
+  left: 347px;
+  top: 350px;
+
+  background: #FFE3F7;
+  border-radius: 30px;
+}
+
+.hero1 {
+  /* Rectangle 16 */
+
+  position: absolute;
+  width: 505px;
+  height: 399px;
+  left: 896px;
+  top: 350px;
+
+  background: #FFE3F7;
+  border-radius: 30px;
+}
+
+.search {
+  /* Rectangle 2 */
+
+  position: absolute;
+  width: 900px;
+  height: 42px;
+  left: 422px;
+  top: 20px;
+
+  background: rgba(245, 245, 245, 0.91);
+  border-radius: 50px;
+}
+
+.text01 {
+  /* Add your own recipe */
+
+  position: absolute;
+  width: 673px;
+  height: 58px;
+  left: 40px;
+  top: -50px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 78px;
+  /* identical to box height */
+
+  color: #FFFFFF;
+}
+
+.text02 {
+  position: absolute;
+  width: 673px;
+  height: 58px;
+  left: 40px;
+  top: 50px;
+
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  /* identical to box height */
+
+  color: #FFFFFF;
+}
+
+/* Upload your own home-made recipe, and share it with other members of our community */
+
+/* Rectangle 3 */
+
+.btn {
+  /* Rectangle 4 */
+
+  position: absolute;
+  width: 242px;
+  height: 48px;
+  left: 35px;
+  top: 143px;
+
+  background: #FFE3F7;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+}
+
+.text03 {
+  /* Upload Now */
+
+  position: absolute;
+  width: 140px;
+  height: 33px;
+  left: 60px;
+  top: -14px;
+
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 33px;
+  /* identical to box height */
+
+  color: #C549A2;
+}
